@@ -5,8 +5,6 @@ A user would simply enter an email, and we would email them a link using which t
 
 **Duration: 1-2 days**
 
-*if you implement everything 100%, you will get paid for your test, otherwise, no payment for the test*
-
 ## Techniques you should use
 
 1. Use Poetry, and FastAPI backend framework.
